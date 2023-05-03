@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Luminnus.SIGEP.App": {
+      "commandName": "Project",
+      "commandLineArgs": "{\\\"CodAdministrativo\\\":\\\"17000190\\\",\\\"Codigo_Servico\\\":\\\"04170,04677\\\",\\\"Cartao\\\":\\\"0067599079\\\",\\\"Usuario\\\":\\\"empresacws\\\",\\\"Senha\\\":\\\"123456\\\",\\\"Metodo\\\":\\\"SolicitarPostagemReversa\\\",\\\"Ambiente\\\":\\\"Homologacao\\\",\\\"Destinatario\\\":{\\\"nome\\\":\\\"Rodolfo\\\",\\\"logradouro\\\":\\\"Rua Anisio Teste\\\"},\\\"Coletas_Solicitadas\\\":[{\\\"remetente\\\":{\\\"nome\\\":\\\"Jos\\u00E9\\\"},\\\"numero\\\":\\\"123\\\"}]}"
+    }
+  }
+}

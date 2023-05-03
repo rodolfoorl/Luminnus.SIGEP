@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Luminnus.SIGEP", "Luminnus.SIGEP\Luminnus.SIGEP.csproj", "{DC830A64-AF22-4C4D-8606-7EADF61726B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Luminnus.SIGEP.App", "Luminnus.SIGEP.App\Luminnus.SIGEP.App.csproj", "{F355EA6E-04ED-4090-A96C-276479E3CCBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC830A64-AF22-4C4D-8606-7EADF61726B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC830A64-AF22-4C4D-8606-7EADF61726B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC830A64-AF22-4C4D-8606-7EADF61726B5}.Debug|x86.ActiveCfg = Debug|x86
+		{DC830A64-AF22-4C4D-8606-7EADF61726B5}.Debug|x86.Build.0 = Debug|x86
+		{DC830A64-AF22-4C4D-8606-7EADF61726B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC830A64-AF22-4C4D-8606-7EADF61726B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC830A64-AF22-4C4D-8606-7EADF61726B5}.Release|x86.ActiveCfg = Release|x86
+		{DC830A64-AF22-4C4D-8606-7EADF61726B5}.Release|x86.Build.0 = Release|x86
+		{F355EA6E-04ED-4090-A96C-276479E3CCBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F355EA6E-04ED-4090-A96C-276479E3CCBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F355EA6E-04ED-4090-A96C-276479E3CCBD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F355EA6E-04ED-4090-A96C-276479E3CCBD}.Debug|x86.Build.0 = Debug|Any CPU
+		{F355EA6E-04ED-4090-A96C-276479E3CCBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F355EA6E-04ED-4090-A96C-276479E3CCBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F355EA6E-04ED-4090-A96C-276479E3CCBD}.Release|x86.ActiveCfg = Release|Any CPU
+		{F355EA6E-04ED-4090-A96C-276479E3CCBD}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB71628-AC21-4387-B840-30568A6D8D2B}
+	EndGlobalSection
+EndGlobal
